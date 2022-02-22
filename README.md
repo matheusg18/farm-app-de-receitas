@@ -45,3 +45,23 @@ Organização da equipe:
 ## Exemplos de Funcionamento
 
 [Link do projeto](https://farm-app-de-receitas.vercel.app/)
+
+### Tela de login
+
+![tela de login](resources/tela-de-login.gif)
+
+### Tela de Comidas
+
+![tela de comidas](resources/tela-de-comidas.gif)
+
+### Tela de bebidas
+
+![tela de bebidas](resources/tela-de-bebidas.gif)
+
+### Tela de explorar
+
+![tela de explorar](resources/tela-de-explorar.gif)
+
+### Tela de perfil
+
+![tela de perfil](resources/tela-de-perfil.gif)
