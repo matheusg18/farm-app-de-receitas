@@ -9,10 +9,10 @@ Este foi o projeto de conclusão do módulo de Front-End da Trybe.
 
 Feito pela equipe:
 
-- @matheusg18
-- @RobertRodriguesMartins
-- @AlessandroFMello
-- @FernandoSegregio
+- [@matheusg18](https://github.com/matheusg18)
+- [@RobertRodriguesMartins](https://github.com/RobertRodriguesMartins)
+- [@AlessandroFMello](https://github.com/AlessandroFMello)
+- [@FernandoSegregio](https://github.com/FernandoSegregio)
 
 ## Tecnologias Usadas
 
@@ -32,12 +32,12 @@ Organização da equipe:
 
 1. Instale as dependências
 
-```js
-npm install
-```
+   ```js
+   npm install
+   ```
 
 2. Inicie a aplicação React
 
-```js
-npm start
-```
+   ```js
+   npm start
+   ```
