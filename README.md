@@ -2,7 +2,7 @@
 
 ## Contexto
 
-O FARM App de Receitas é um site feito com React onde é possível ver, buscar, filtrar, favoritar e acompanhar o processo de preparação de comidas e drinks.
+O [FARM App de Receitas](https://farm-app-de-receitas.vercel.app/) é um site feito com React onde é possível ver, buscar, filtrar, favoritar e acompanhar o processo de preparação de comidas e drinks.
 **O layout tem como foco dispositivos móveis.**
 
 Este foi o projeto de conclusão do módulo de Front-End da Trybe.
@@ -41,3 +41,7 @@ Organização da equipe:
    ```js
    npm start
    ```
+
+## Exemplos de Funcionamento
+
+[Link do projeto](https://farm-app-de-receitas.vercel.app/)
